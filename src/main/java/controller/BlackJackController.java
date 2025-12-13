@@ -54,5 +54,4 @@ public class BlackJackController {
     public void handleStandClick() {
         // Gọi gameManager.dealerPlay() và gọi cashOut
     }
-
 }
